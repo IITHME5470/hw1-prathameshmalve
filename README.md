@@ -4,6 +4,8 @@
 
 # Compiling
 ## to run Q1.c:
-    go the the directory where Q1 is present and open that directory in terminal.
-    enter gcc Q1.c
-    
+go the the directory where Q1 is present and open that directory in terminal.
+to compile: enter `gcc Q1.c`
+to run: `./a.out`
+
+Do same for Q2.c
