@@ -9,3 +9,5 @@ to compile: enter `gcc Q1.c`
 to run: `./a.out`
 
 Do same for Q2.c
+
+You can change the value of n form the `input.in` file. Note that `Q1.c` and `Q2.c` both share the sampe input file.
